@@ -1,12 +1,8 @@
-getgenv().freeze = false
-
 local library = loadstring(game:HttpGet(('https://raw.githubusercontent.com/AikaV3rm/UiLib/master/Lib.lua')))()
 local w = library:CreateWindow("Nichi's Town")
 local a = w:CreateFolder("Player") 
 local b = w:CreateFolder("Scavenger Hunts")
 local c = w:CreateFolder("Minigames")
-
-
 
 a:DestroyGui()
 
