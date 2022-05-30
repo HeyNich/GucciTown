@@ -32,6 +32,19 @@ b:Button("GUCCI Day 2",function()
 	plyr.Character.HumanoidRootPart.CFrame = CFrame.new(618.5, 10, -86.5)
 end)
 
+b:Button("GUCCI Day 3",function()
+	local plyr = game.Players.LocalPlayer;
+	plyr.Character.HumanoidRootPart.CFrame = CFrame.new(460.626617, 18.3530369, 434.630615)
+	wait(.4)
+	plyr.Character.HumanoidRootPart.CFrame = CFrame.new(86.6669083, 17, -85.8896103)
+	wait(.4)
+	plyr.Character.HumanoidRootPart.CFrame = CFrame.new(255.2061, 5, 120.623924)
+	wait(.4)
+	plyr.Character.HumanoidRootPart.CFrame = CFrame.new(706.530884, 17, -150.87793)
+	wait(.4)
+	plyr.Character.HumanoidRootPart.CFrame = CFrame.new(460.626617, 20, 434.630615)
+end)
+
 c:Button("Water Rise 1",function()
 	local plyr = game.Players.LocalPlayer;
 	plyr.Character.HumanoidRootPart.CFrame = CFrame.new(-549.456238, 181, -3908.8432)
